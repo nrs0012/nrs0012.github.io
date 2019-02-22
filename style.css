@@ -1,0 +1,29 @@
+body
+{
+	
+	
+}
+.headerimg
+{
+	width: 100%;
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+.headertext
+{
+	font-family: 'Bitter', serif;
+	position: absolute;
+	top: 1.5em;
+	left: 7em;
+	color: white;
+	font-size: 4rem;
+
+}
+.headerbutton
+{
+	position: absolute;
+	top: 40em;
+	left: 44em;
+}
